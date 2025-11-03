@@ -1,0 +1,132 @@
+{
+  "settings": {
+    "name": "Amey Datir",
+    "title": "Master of Computer Application",
+    "location": "India",
+    "summary": "MCA graduate seeking a challenging IT position to utilize skills in computer science and contribute to innovative projects.",
+    "profileImage": "https://i.postimg.cc/T3QNP2vt/AI-24134-PHOTO.jpg"
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "ctaButtons": [
+        {
+          "text": "Get In Touch",
+          "url": "mailto:ameydatir21@gmail.com"
+        },
+        {
+          "text": "View Resume",
+          "url": "#"
+        }
+      ]
+    },
+    "about": {
+      "enabled": true,
+      "skills": {
+        "enabled": true,
+        "title": "Technical Skills",
+        "items": [
+          "Java",
+          "OOPS",
+          "C Programming, C++",
+          "HTML"
+        ]
+      }
+    },
+    "experience": {
+      "enabled": false,
+      "title": "Work Experience",
+      "items": []
+    },
+    "projects": {
+      "enabled": false,
+      "title": "Featured Projects",
+      "items": []
+    },
+    "education": {
+      "enabled": true,
+      "title": "Education",
+      "items": [
+        {
+          "institution": "P.E.S Modern College Of engineering.",
+          "degree": "MCA (Master of Computer Applications)",
+          "period": "2024 - 2026"
+        },
+        {
+          "institution": "Adv. Shankarrao Rathod Jr. College, Lakhkhind",
+          "degree": "12th",
+          "period": "2020 - 2021"
+        },
+        {
+          "institution": "Little Birds English Medium School, Darwha",
+          "degree": "10th",
+          "period": "2018 - 2019"
+        }
+      ]
+    },
+    "achievements": {
+      "enabled": true,
+      "title": "Achievements & Certifications",
+      "items": [
+        {
+          "title": "Java programming",
+          "description": "By CAD-DESK Private Limited."
+        },
+        {
+          "title": "Python programming",
+          "description": "By Udemy."
+        }
+      ]
+    },
+    "contact": {
+      "enabled": true,
+      "title": "Contact",
+      "email": "ameydatir21@gmail.com",
+      "phone": "+91 9156021199",
+      "location": "India"
+    },
+    "social": {
+      "enabled": true,
+      "items": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/in/amey-datir",
+          "icon": "linkedin"
+        }
+      ]
+    }
+  },
+  "navigation": {
+    "enabled": true,
+    "items": [
+      {
+        "name": "Home",
+        "url": "/"
+      },
+      {
+        "name": "About",
+        "url": "#about"
+      },
+      {
+        "name": "Projects",
+        "url": "#projects"
+      },
+      {
+        "name": "Experience",
+        "url": "#experience"
+      },
+      {
+        "name": "Education",
+        "url": "#education"
+      },
+      {
+        "name": "Contact",
+        "url": "#contact"
+      }
+    ]
+  },
+  "footer": {
+    "enabled": true,
+    "copyright": "© 2025 Amey Datir. All rights reserved."
+  }
+}
